@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /portfolio/
 title: "Data Science Portfolio"
 author_profile: true
