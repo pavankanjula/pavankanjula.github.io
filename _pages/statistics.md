@@ -4,7 +4,7 @@ permalink: /statistics/
 title: "Statistics concepts"
 author_profile: true
 header:
-  image: "/images/Otherpic.jpg"
+  image: "../images/Otherpic.jpg"
 ---
 
 {% include base_path %}
