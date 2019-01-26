@@ -4,6 +4,13 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Statistics"
+    url: /statistics/
+  - title: "Data Wrangling"
+    url: /data-wrangling/
+  - title: "Machine Learning"
+    url: /machine-learning/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

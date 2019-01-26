@@ -4,7 +4,7 @@ permalink: /portfolio/
 title: "Data Science Portfolio"
 author_profile: true
 header:
-  image: "images/Portfolio"
+  image: "images/Portfolio.jpg"
 ---
 
 {% include base_path %}
