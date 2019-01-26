@@ -5,7 +5,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Statistics"
-    url: ../_pages/statistics/
+    url: /statistics/
   - title: "Data Wrangling"
     url: /data-wrangling/
   - title: "Machine Learning"
