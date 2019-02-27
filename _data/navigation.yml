@@ -1,13 +1,14 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  
   - title: "Portfolio"
     url: /portfolio/
   - title: "Statistics"
     url: /statistics/
-  - title: "Data Wrangling"
+  - title: "Data Analytics"
     url: /data-wrangling/
+  - title: "Feature Engineering"
+    url: /feature-engineering
   - title: "Machine Learning"
     url: /machine-learning/
 
