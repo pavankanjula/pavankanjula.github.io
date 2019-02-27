@@ -6,7 +6,7 @@ main:
   - title: "Statistics"
     url: /statistics/
   - title: "Data Analytics"
-    url: /data-wrangling/
+    url: /data-analytics/
   - title: "Feature Engineering"
     url: /feature-engineering
   - title: "Machine Learning"
