@@ -1,15 +1,15 @@
 ---
 layout: archive
-permalink: /statistics/
-title: "Statistics concepts"
+permalink: /data-analytics/
+title: "Exploratory Data Analytics"
 author_profile: true
 header:
   image: "/images/Otherpic.jpg"
 ---
 
- <ul>
+<ul>
   {% for post in site.posts %}
-    {% if post.categories[0] == "Statistics" %}
+    {% if post.categories[0] == "Data Analytics" %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
