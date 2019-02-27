@@ -3,8 +3,6 @@ layout: archive
 permalink: /data-analytics/
 title: "Exploratory Data Analytics"
 author_profile: true
-header:
-  image: "/images/Otherpic.jpg"
 ---
 
 <ul>
