@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Pavankumar Kanjula"
   avatar           : "images/Bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science portfolio"
+  bio              : "Data Scientist"
   location         : "San francisco, CA"
   email            :
   links:
